@@ -17,7 +17,7 @@ export default defineNuxtConfig({
         { property: 'og:title', content: 'SafeToken - Token Risk Scanner' },
         { property: 'og:description', content: 'SafeToken is a token contract checker and security checker used to analyze tokens and identify fraudulent ones.' },
         { property: 'og:image', content: '/scan.webp' },  // Path to your site image/logo
-        { property: 'og:url', content: 'https://safetoken.vercel.app' },
+        { property: 'og:url', content: 'https://safetokenn.vercel.app' },
         { property: 'og:type', content: 'website' },
         // Twitter card metadata for Twitter sharing
         { name: 'twitter:card', content: 'summary_large_image' },
