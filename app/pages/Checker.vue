@@ -29,16 +29,16 @@
       </form>
 
       <div v-if="loading" class="mt-6 text-purple-600 font-medium">Scanning...</div>
-      <ResultCard
+     
+    </div>
+    <ResultCard
         v-if="result"
         :score="result.score ?? 0"
         :tags="result.tags ?? []"
         :analysis="result.analysis ?? []"
       />
-    </div>
-   
   </div>
-  <Footer/>
+<Footer/>
 </template>
 
 <script setup lang="ts">
