@@ -1,8 +1,8 @@
 <template>
   <Navbar />
   <div class="min-h-screen flex flex-col items-center py-10 lg:pt-[200px] bg-gradient-to-r from-purple-500 to-white pt-[200px] w-full h-full">
-    <div class="bg-white/30 backdrop-blur-md shadow-md lg:w-[600px] h-[350px] lg:px-[100px] pt-[50px] rounded w-[480px] px-[50px] overflow-hidden">
-      <h1 class="text-4xl font-bold mb-8 text-purple-800">🛡️ Token Risk Scanner</h1>
+    <div class="bg-white/30 backdrop-blur-md shadow-md lg:w-[600px] h-[350px] lg:px-[100px] pt-[50px] rounded w-[400px] px-[50px] overflow-hidden">
+      <h1 class="text-[25px] font-bold mb-8 text-purple-800">🛡️ Token Risk Scanner</h1>
 
       <form @submit.prevent="scanToken" class="w-full max-w-md space-y-4">
         <input
