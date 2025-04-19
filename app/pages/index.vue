@@ -14,7 +14,7 @@
   <Navbar/>
       <!-- Your content goes here -->
       
-        <h1 class="lg:text-[60px] md:text-6xl font-bold lg:mt-[300px] text-white lg:ml-[450px] ml-[50px] mt-[250px] text-[35px]">Start Checking Contract <br>Addresses Of Tokens <br>Before Investing In it To<br> Avoid Fraud Tokens.</h1>
+        <h1 class="lg:text-[60px] md:text-6xl font-bold lg:mt-[300px] text-white lg:ml-[450px] ml-[50px] mt-[250px] text-[30px]">Start Checking Contract <br>Addresses Of Tokens <br>Before Investing In it To<br> Avoid Fraud Tokens.</h1>
       <br>
       <small class="text-gray-500 lg:ml-[450px] lg:visible lg:text-[20px] font-bold mr-[-400px] pl-[-50px] hidden">Do some security/DD checks on a token before working with it.</small>
 
